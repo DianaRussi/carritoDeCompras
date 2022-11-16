@@ -97,3 +97,4 @@ function limpiarHtml() {
     divCarrito.removeChild(divCarrito.firstChild);
   }
 }
+document.fo
